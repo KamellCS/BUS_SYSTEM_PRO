@@ -1,0 +1,2 @@
+Este proyecto no necesita librerías externas.
+Solo Python 3.10+ (incluye tkinter y sqlite3).
